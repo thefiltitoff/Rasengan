@@ -6,8 +6,9 @@ This 3D can be used in different huge projects as game object etc.
 <div align="center">
   
   [![Blender](https://img.shields.io/badge/Blender-2.93.5-yellow)]([https://www.oracle.com/java/technologies/javase/15-relnote-issues.html](https://www.blender.org))
- 
+  <div height="30px" width="30px">
   ![Alt Text](https://github.com/filtitov2001/Rasengan/blob/main/assets/0001-0250.gif)
+</div>
 </div>
 
 ## Demo
