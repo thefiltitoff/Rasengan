@@ -9,6 +9,18 @@ This 3D can be used in different huge projects as game object etc.
 
 </div>
 
+## Color Reference
+
+| Color | Hex   |
+| ------| ----- |
+| ![#EEFEFC](https://via.placeholder.com/10/eefefc?text=+) |  #EEFEFC |
+| ![#E8FFFF](https://via.placeholder.com/10/e8ffff?text=+) |  #E8FFFF |
+| ![#BBEDFB](https://via.placeholder.com/10/bbedfb?text=+) |  #BBEDFB |
+| ![#5AA2BE](https://via.placeholder.com/10/5aa2be?text=+) |  #5AA2BE |
+| ![#538EA8](https://via.placeholder.com/10/538ea8?text=+) |  #538EA8 |
+
+
+
 ## Demo
 
 <div align="center">
